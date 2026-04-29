@@ -1,4 +1,4 @@
-# ⚡ Groq Chat
+# Groq Chat
 
 A modern, minimalist chatbot powered by [Groq](https://groq.com)'s ultra-fast LLM inference API.
 
@@ -6,13 +6,13 @@ Built with React + Vite + Tailwind CSS.
 
 ## Features
 
-- 🚀 **4 AI Models** — LLaMA 3.3 70B, LLaMA 3.1 8B Instant, Mixtral 8×7B, Gemma 2 9B
-- 🖼️ **File & Image Uploads** — Attach images and text files to your messages
-- 💬 **Multi-conversation** — Sidebar with conversation history, persistent across sessions
-- ⚡ **Streaming responses** — Real-time token-by-token streaming
-- 🌑 **Dark minimalist UI** — Clean dark theme with subtle emerald accents
-- 📋 **Markdown rendering** — Code blocks, tables, lists, and more
-- 🔑 **Local API key storage** — Stored in your browser only, never sent to external servers
+-  **4 AI Models** — LLaMA 3.3 70B, LLaMA 3.1 8B Instant, Mixtral 8×7B, Gemma 2 9B
+-  **File & Image Uploads** — Attach images and text files to your messages
+-  **Multi-conversation** — Sidebar with conversation history, persistent across sessions
+-  **Streaming responses** — Real-time token-by-token streaming
+-  **Dark minimalist UI** — Clean dark theme with subtle emerald accents
+-  **Markdown rendering** — Code blocks, tables, lists, and more
+-  **Local API key storage** — Stored in your browser only, never sent to external servers
 
 ## Setup
 
